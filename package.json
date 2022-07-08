@@ -1,0 +1,23 @@
+{
+  "name": "3_npm_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Hello!",
+    "First",
+    "practice!"
+  ],
+  "author": "Yunus Seytnazarov",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prettier": "^2.7.1"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^19.0.4"
+  }
+}
